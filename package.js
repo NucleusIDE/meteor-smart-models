@@ -1,5 +1,5 @@
 Package.describe({
-  name: "channikhabra:smart-models",
+  name: "nucleuside:smart-models",
   summary: "MVC like models in meteor",
   version: "0.0.8",
   git: "https://github.com/nucleuside/meteor-smart-models.git"
